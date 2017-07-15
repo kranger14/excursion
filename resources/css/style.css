@@ -10,7 +10,21 @@ h1 {
   font-size: 50px;
 }
 
+h2 {
+  font-weight: 300;
+  font-size: 42px;
+}
+
 .cta {
-  color: Aquamarine;
+  color: aquamarine;
   font-size: 16px;
+}
+
+.txt {
+  font-size: 21px;
+  color: gray;
+}
+
+.footer {
+  text-align: right;
 }
